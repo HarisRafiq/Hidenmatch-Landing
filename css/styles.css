@@ -4,7 +4,7 @@
 /* header */
 
 #title {
-    background-color: #ff4c68;
+    background-color: #FFDE59;
 }
 
 #title-text{
@@ -33,7 +33,7 @@
 .iphone {
     text-align: center;
     margin-top: 100px;
-    transform: rotate(25deg);
+    transform: rotate(-25deg);
      right: 10%;
 }
 
