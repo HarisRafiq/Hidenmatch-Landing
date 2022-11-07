@@ -1,8 +1,6 @@
-# Landing-Page-For-App
- A simple landing page for your app. Made using bootstrap. Feel free to make changes in code as per your requirements.
+# Landing-Page-For-HideNmatch
+ A simple landing page for your app.
 
 # Demo
- https://het-delwadiya.github.io/Landing-Page-For-App/
+ https://hidenmatch.com
  
-# About
- Made by HeT
